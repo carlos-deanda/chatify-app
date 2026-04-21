@@ -1,6 +1,6 @@
 
 import './App.css'
-import {socket} from '../socket'
+import {socket} from './socket'
 import {useEffect} from 'react'
 import ManageConnection from './components/ManageConnection'
 import MyForm from './components/MyForm'

@@ -1,5 +1,5 @@
 import React from 'react'
-import {socket} from '../../socket'
+import {socket} from '../socket'
 import  {useEffect} from 'react'
 import {useState} from 'react'
 
